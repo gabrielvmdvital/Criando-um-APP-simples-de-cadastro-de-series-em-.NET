@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "V/9xOxUQkMXVS7cF2dgo6gkElIYFhKWjVdqh1cNNyAtKHjzZBFahHD+8Apx/jeSzppQS3lJmz7OOIlZCIxt09g==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\Nova pasta (2)\\Criando-um-APP-simples-de-cadastro-de-s-ries-em-.NET\\DIO.Series.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote Microsoft.NETCore.App.Ref. Não existe nenhum pacote com esta ID nas origens: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote Microsoft.WindowsDesktop.App.Ref. Não existe nenhum pacote com esta ID nas origens: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote Microsoft.NETCore.App.Host.win-x64. Não existe nenhum pacote com esta ID nas origens: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
